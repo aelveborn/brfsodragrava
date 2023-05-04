@@ -7,7 +7,7 @@
 
     {%- include header.html -%}
 
-    <img src="{{ page.hero }}" alt="" />
+    <img src="{{ page.hero | prepend: site.baseurl }}" alt="" />
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
