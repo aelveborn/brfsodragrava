@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <img src="{{ page.hero }}" alt="" />
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
+        <article class="hero">
+
+          <header class="hero-header">
+            <h1 class="hero-title">{{ page.title | escape }}</h1>
+          </header>
+        
+          <div class="hero-content">
+            {{ content }}
+          </div>
+        
+        </article>
+        
+      </div>
+
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
