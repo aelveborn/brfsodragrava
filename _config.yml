@@ -22,8 +22,8 @@ title: Brf Södra Grava
 email: brfsodragrava@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bostadsrätter i radhusformat. Naturnära i Skåre med skolor och service, strax utanför Karlstad.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/brfsodragrava" # the subpath of your site, e.g. /blog
+url: "http://aelveborn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
