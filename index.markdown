@@ -1,5 +1,6 @@
 ---
 layout: index
+title:
 ---
 
 # Bostadsrätter i radhusformat
