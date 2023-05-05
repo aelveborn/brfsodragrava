@@ -1,5 +1,6 @@
 ---
 layout: start
+permalink: /
 ---
 
 # Bostadsrätter i radhusformat
