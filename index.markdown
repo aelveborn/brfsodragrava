@@ -3,6 +3,6 @@ layout: start
 title: ''
 ---
 
-# Bostadsrätter i radhusformat 2
+# Bostadsrätter i radhusformat
 
 Naturnära i Skåre med skolor och service, strax utanför Karlstad.
