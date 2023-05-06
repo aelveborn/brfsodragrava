@@ -1,5 +1,6 @@
 ---
 layout: start
+title: ''
 ---
 
 # Bostadsrätter i radhusformat 2
